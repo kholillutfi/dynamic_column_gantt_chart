@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <template id="assets_backend" name="web gantt assets customize" inherit_id="web.assets_backend">
+        <xpath expr="." position="inside">
+            <script type="text/javascript" src="/dynamic_column_gantt_chart/static/src/js/gantt_chart_customize.js"></script>
+        </xpath>
+    </template>
+
+</odoo>
