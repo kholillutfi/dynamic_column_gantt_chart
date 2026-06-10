@@ -124,7 +124,7 @@ field: field name to display
 label: label text shown after the value
 rounded: if true, the value will be rounded
 Field Attribute Example
-<field name="product_qty"
+##<field name="product_qty"
        optional="show"
        width="3"
        string="QTY"
@@ -132,7 +132,7 @@ Field Attribute Example
        content-align="right"
        merge-header="{'column': 1,'string': 'Planned'}"/>
 Full Example
-<record id="manufacture_reporting_gantt_view" model="ir.ui.view">
+##<record id="manufacture_reporting_gantt_view" model="ir.ui.view">
     <field name="name">manufacture.reporting.gantt.view</field>
     <field name="model">mrp.production</field>
     <field name="arch" type="xml">
