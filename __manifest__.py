@@ -7,7 +7,7 @@
         It also provides several customization options including column visibility, column width, merged headers, decimal precision, value alignment, default collapsed groups, and custom displayed values inside the Gantt bar.
         This module is suitable for manufacturing planning, production reporting, project scheduling, maintenance planning, delivery monitoring, and other timeline-based business processes.
     """,
-    'version': '14.0',
+    'version': '14.0.8.0.0',
     'category': 'Gantt',
     'sequence': 40,
     'author': 'M. Kholil Lutfi S. Kom',
