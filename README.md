@@ -1,4 +1,5 @@
-Dynamic Column Gantt Chart is a custom Odoo 14 Enterprise module that extends the standard Web Gantt View by adding dynamic custom columns and additional display options.
+# Dynamic Column Gantt Chart 
+is a custom Odoo 14 Enterprise module that extends the standard Web Gantt View by adding dynamic custom columns and additional display options.
 To use the custom features provided by this module, add the following attribute to the <gantt> tag:
 
 js_class="dynamic_gantt"
