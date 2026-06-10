@@ -73,6 +73,7 @@ For float fields, you can control how many decimal digits should be displayed.
 Example:
 
 <field name="product_qty" optional="show" width="3" string="QTY" decimal="0"/>
+
 # 6. Content Alignment
 
 You can align column values using content-align.
@@ -86,6 +87,7 @@ content-align="right"
 Example:
 
 <field name="product_qty" content-align="right"/>
+
 # 7. Default Collapsed Group
 
 You can set specific group-by columns to be collapsed by default using default_collapse_group.
