@@ -33,6 +33,7 @@ You can display an image field directly inside the Gantt column by using widget=
 You can also adjust the image column size using width-related attributes.
 
 <field name="x_product_img" optional="show" widget="image" width="5" parent-width="20"/>
+
 # 3. Merge Header Column
 
 You can merge several column headers into one grouped header using merge-header.
