@@ -15,6 +15,7 @@ Example:
     ...
 </gantt>
 Features and Attributes
+>
 # 1. Add Additional Columns to Gantt View
 
 This is the main feature of the module. You can add extra fields inside the Gantt View as additional columns.
